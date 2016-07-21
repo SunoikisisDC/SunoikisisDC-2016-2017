@@ -4,7 +4,5 @@
 TBA
 
 ***
-### SunoikisisDC 2016 WS Course
-
-***
-### SunoikisisDC 2017 SS Course
+### SunoikisisDC 2016-2017 Courses
+* [SunoikisisDC 2016-2017 Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki)
