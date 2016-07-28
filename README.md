@@ -1,7 +1,7 @@
 # SunoikisisDC 2016-2017 (in preparation)
 
 ### SunoikisisDC 2016-2017 Planning Seminar
-TBA
+University of Leipzig, December 12-13, 2016
 
 ***
 ### SunoikisisDC 2016-2017 Courses
