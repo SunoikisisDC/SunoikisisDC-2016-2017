@@ -1,4 +1,4 @@
-# SunoikisisDC 2016-2017 (in preparation)
+# SunoikisisDC 2016-2017
 
 ### SunoikisisDC 2016-2017 Planning Seminar
 University of Leipzig, December 12-13, 2016
