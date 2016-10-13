@@ -10,3 +10,4 @@ University of Leipzig, December 12-13, 2016
 ***
 ### Other Activities
 * Monica Berti participates in the Sunoikisis CHS Greek Course ([Hellenistic Literature 2016](http://sunoikisis-greek.chs.harvard.edu/participating-faculty-2016/))
+* Monica Berti presents SunoikisisDC at *Wik-F. Webinars in den kleinen Fächern* (Heidelberg Universität, October 12, 2016)
