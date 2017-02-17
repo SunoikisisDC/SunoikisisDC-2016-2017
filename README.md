@@ -10,7 +10,7 @@
 ### Other Activities
 * Monica Berti participates in the Sunoikisis CHS Greek Course ([Hellenistic Literature 2016](http://sunoikisis-greek.chs.harvard.edu/participating-faculty-2016/))
 * Monica Berti presents SunoikisisDC at *Wik-F. Webinars in den kleinen Fächern* Heidelberg Universität, October 12, 2016)
-* Monica Berti presents SunoikisisDC at the ["Classical Philology Goes Digital" Workshop](http://uni-potsdam.de/klassphil/informationen-de/veranstaltungen/workshop-classical-philology-goes-digital.htm) in Potsdam on February 16-17, 2017
+* Monica Berti presents SunoikisisDC at the ["Classical Philology Goes Digital" Workshop](http://uni-potsdam.de/klassphil/informationen-de/veranstaltungen/workshop-classical-philology-goes-digital.html) in Potsdam on February 16-17, 2017
 * Monica Berti will present SunoikisisDC at the Dariah Teach Closing Conference in Lausanne on March 23-24, 2017 (more soon on the program)
 
 ***
