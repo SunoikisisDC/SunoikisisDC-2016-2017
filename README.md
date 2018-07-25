@@ -16,5 +16,5 @@
 
 ***
 ### Parallel Activities at the Center for Hellenic Studies (Washington DC)
-* [Reading Herodotus (Sunoikisis Courses in Translation) - SS 2017](http://wp.chs.harvard.edu/sunoikisis/herodotus-tutorial/): [Course Schedule](http://sunoikisis-herodotus.org/)
+* [Reading Herodotus (Sunoikisis Courses in Translation) - SS 2017](https://www.sunoikisis.org/courses/sunoikisis-courses-in-translation/)
 * [CHS Information Fluency in Classics: A Workshop for Undergraduates (CHS, Washington DC, June 20-29, 2017)](http://chs.harvard.edu/CHS/article/display/5687)
