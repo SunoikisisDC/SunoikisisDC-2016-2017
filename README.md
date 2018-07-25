@@ -10,7 +10,7 @@
 ### Other Activities
 * Monica Berti participates in the Sunoikisis CHS Greek Course ([Hellenistic Literature 2016](https://www.sunoikisis.org/courses/greek-seminar-and-course-archives/))
 * Monica Berti presents SunoikisisDC at *Wik-F. Webinars in den kleinen Fächern* Heidelberg Universität, October 12, 2016)
-* Monica Berti presents SunoikisisDC at the [*Classical Philology Goes Digital* Workshop](http://uni-potsdam.de/klassphil/informationen-de/veranstaltungen/workshop-classical-philology-goes-digital.html) in Potsdam on February 16-17, 2017
+* Monica Berti presents SunoikisisDC at the [*Classical Philology Goes Digital* Workshop](http://www.monicaberti.com/wp-content/uploads/2017/01/PotsdamWorkshop_2017_Program.pdf) in Potsdam on February 16-17, 2017
 * Monica Berti presents SunoikisisDC at [*#dariahTeach Open Resource Conference*](http://dariah.eu/teach/index.php/slides/), Dorigny Campus, Lausanne, March 23-24, 2017
 * Michèle Brunet presents "La pédagogie du numérique et par le numérique pour les textes grecs, littéraires et épigraphiques: la dynamique internationale Sunoikisis Digital Classics" at [*Journée d'Étude dans le cadre du projet TALIE (Traditions de l'Antiquité à Lille et dans l'Eurorégion) Enseigner les langues anciennes à l’ère digitale: apprendre par et pour les Humanités numériques?*](https://f.hypotheses.org/wp-content/blogs.dir/3384/files/2017/02/Programme-JE_Langues-anciennes-et-HumNum.pdf), Lille, March 24, 2017 
 
